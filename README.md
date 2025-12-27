@@ -5,7 +5,7 @@ Simulates the behavior of the standard printf() function
 
 ## Description
 
-This project consists of implementing different functions that reproduce part of the behavior of the standard C library function printf().
+This project consists of implementing different functions that reproduce part of the behavior of the standard C library printf() function.
 The objective is to understand how printf() works, when it is used, and how it handles different types of values. Exploring the basic design of this function helps to better understand its overall approach.
 
 `ft_printf()` supports the following format specifiers:  
