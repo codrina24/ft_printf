@@ -17,7 +17,7 @@ The objective is to understand how printf() works, when it is used, and how it h
 - `%x` / `%X` : Prints a number in hexadecimal (lowercase / uppercase).  
 - `%%` : Prints a percent sign.  
 
-The library is compiled as a static library (`ft_printf.a`) that can be linked to other projects.
+The library is compiled as a static library (`libftprintf.a`) that can be linked to other projects.
 
 ## Instructions
 
@@ -47,3 +47,15 @@ AI tools were used to help:
 No AI was used to write the functions directly; all code logic and implementation are my own work and personal vision.
 
 ## Library Functions Overview
+
+### Main function
+
+- ft_printf
+
+### Conversion functions
+
+- ft_printf_char, ft_printf_str, ft_printf_nbr, ft_printf_unsigned, ft_printf_hex, ft_printf_ptr
+
+### Parsing and validation
+
+- ft_verify
