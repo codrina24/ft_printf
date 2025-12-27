@@ -21,7 +21,6 @@ The library is compiled as a static library (`ft_printf.a`) that can be linked t
 
 ## Instructions
 
-### Compilation
 The project includes a `Makefile` with the following targets:  
 - `all` : Compiles the library.  
 - `clean` : Removes object files.  
